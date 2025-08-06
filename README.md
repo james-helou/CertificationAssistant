@@ -2,7 +2,7 @@
 
 A streamlined Microsoft certification recommendation system that uses **local data** + **OpenAI API** + **sequential AI agents** to create personalized study plans.
 
-## 🎯 **What It Does**
+## **What It Does**
 
 1. **Goal Agent** - Analyzes your profile and recommends certifications
 2. **Prerequisite Agent** - Checks if you meet requirements and identifies gaps

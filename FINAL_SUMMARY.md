@@ -1,6 +1,6 @@
 # 🎉 Simple Agentic Certification Assistant - Final Summary
 
-## ✅ **What We Accomplished**
+##  **What We Accomplished**
 
 You now have a **complete, working agentic AI system** that:
 
