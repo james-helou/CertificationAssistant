@@ -1,0 +1,1218 @@
+{
+  "certifications": [
+    {
+      "id": "az-900",
+      "title": "Azure Fundamentals",
+      "description": "Learn cloud concepts, Azure services, security, privacy, compliance, and trust",
+      "level": "Fundamental",
+      "category": "Cloud",
+      "prerequisites": "None",
+      "skills_measured": [
+        "Cloud concepts (20-25%)",
+        "Azure architecture and services (35-40%)",
+        "Azure management and governance (30-35%)",
+        "Azure security, privacy, compliance, and trust (25-30%)"
+      ],
+      "estimated_study_time": "20-30 hours",
+      "exam_duration": "60 minutes",
+      "passing_score": "700/1000",
+      "career_benefits": [
+        "Foundation for cloud roles",
+        "Entry point to Azure career path",
+        "Understanding of cloud concepts"
+      ],
+      "learning_paths": [
+        "Azure Fundamentals",
+        "Cloud Concepts",
+        "Azure Services Overview"
+      ],
+      "modules": [
+        "Describe cloud concepts",
+        "Describe Azure architecture and services",
+        "Describe Azure management and governance",
+        "Describe Azure security, privacy, compliance, and trust"
+      ]
+    },
+    {
+      "id": "az-104",
+      "title": "Azure Administrator Associate",
+      "description": "Manage Azure resources and implement security solutions",
+      "level": "Associate",
+      "category": "Cloud",
+      "prerequisites": "6+ months of hands-on experience administering Azure",
+      "skills_measured": [
+        "Manage Azure identities and governance (15-20%)",
+        "Implement and manage storage (15-20%)",
+        "Deploy and manage Azure compute resources (20-25%)",
+        "Configure and manage virtual networking (20-25%)",
+        "Monitor and maintain Azure resources (10-15%)"
+      ],
+      "estimated_study_time": "80-120 hours",
+      "exam_duration": "120 minutes",
+      "passing_score": "700/1000",
+      "career_benefits": [
+        "Azure administrator roles",
+        "Cloud infrastructure management",
+        "DevOps and infrastructure automation"
+      ],
+      "learning_paths": [
+        "Azure Administrator",
+        "Azure Identity Management",
+        "Azure Storage Solutions"
+      ],
+      "modules": [
+        "Manage Azure identities and governance",
+        "Implement and manage storage",
+        "Deploy and manage Azure compute resources",
+        "Configure and manage virtual networking",
+        "Monitor and maintain Azure resources"
+      ]
+    },
+    {
+      "id": "az-204",
+      "title": "Azure Developer Associate",
+      "description": "Design, build, test, and maintain cloud applications and services",
+      "level": "Associate",
+      "category": "Development",
+      "prerequisites": "1+ year of experience developing scalable solutions",
+      "skills_measured": [
+        "Develop Azure compute solutions (25-30%)",
+        "Develop for Azure storage (15-20%)",
+        "Implement Azure security (20-25%)",
+        "Monitor, troubleshoot, and optimize Azure solutions (15-20%)",
+        "Connect to and consume Azure services and third-party services (15-20%)"
+      ],
+      "estimated_study_time": "100-150 hours",
+      "exam_duration": "120 minutes",
+      "passing_score": "700/1000",
+      "career_benefits": [
+        "Azure developer roles",
+        "Cloud application development",
+        "Full-stack development with Azure"
+      ],
+      "learning_paths": [
+        "Azure Developer",
+        "Azure Compute Solutions",
+        "Azure Storage for Developers"
+      ],
+      "modules": [
+        "Develop Azure compute solutions",
+        "Develop for Azure storage",
+        "Implement Azure security",
+        "Monitor, troubleshoot, and optimize Azure solutions",
+        "Connect to and consume Azure services"
+      ]
+    },
+    {
+      "id": "az-305",
+      "title": "Azure Solutions Architect Expert",
+      "description": "Design solutions that run on Azure",
+      "level": "Expert",
+      "category": "Architecture",
+      "prerequisites": "Advanced experience and knowledge of IT operations",
+      "skills_measured": [
+        "Design identity, governance, and monitoring solutions (25-30%)",
+        "Design data storage solutions (25-30%)",
+        "Design business continuity solutions (10-15%)",
+        "Design infrastructure solutions (20-25%)"
+      ],
+      "estimated_study_time": "150-200 hours",
+      "exam_duration": "150 minutes",
+      "passing_score": "700/1000",
+      "career_benefits": [
+        "Solutions architect roles",
+        "Enterprise architecture",
+        "Cloud strategy and design"
+      ],
+      "learning_paths": [
+        "Azure Solutions Architect",
+        "Azure Architecture Design",
+        "Enterprise Azure Solutions"
+      ],
+      "modules": [
+        "Design identity, governance, and monitoring solutions",
+        "Design data storage solutions",
+        "Design business continuity solutions",
+        "Design infrastructure solutions"
+      ]
+    },
+    {
+      "id": "az-500",
+      "title": "Azure Security Engineer Associate",
+      "description": "Implement security controls and threat protection",
+      "level": "Associate",
+      "category": "Security",
+      "prerequisites": "1+ year of hands-on experience securing Azure workloads",
+      "skills_measured": [
+        "Manage identity and access (30-35%)",
+        "Implement platform protection (15-20%)",
+        "Manage security operations (25-30%)",
+        "Secure data and applications (20-25%)"
+      ],
+      "estimated_study_time": "120-160 hours",
+      "exam_duration": "150 minutes",
+      "passing_score": "700/1000",
+      "career_benefits": [
+        "Security engineer roles",
+        "Cloud security specialist",
+        "Security operations"
+      ],
+      "learning_paths": [
+        "Azure Security Engineer",
+        "Azure Security Solutions",
+        "Identity and Access Management"
+      ],
+      "modules": [
+        "Manage identity and access",
+        "Implement platform protection",
+        "Manage security operations",
+        "Secure data and applications"
+      ]
+    },
+    {
+      "id": "az-400",
+      "title": "Azure DevOps Engineer Expert",
+      "description": "Design and implement DevOps practices",
+      "level": "Expert",
+      "category": "DevOps",
+      "prerequisites": "Advanced experience and knowledge of IT operations",
+      "skills_measured": [
+        "Configure processes and communications (10-15%)",
+        "Design and implement source control (15-20%)",
+        "Design and implement build and release pipelines (40-45%)",
+        "Develop a security and compliance plan (10-15%)",
+        "Implement an instrumentation strategy (10-15%)"
+      ],
+      "estimated_study_time": "150-200 hours",
+      "exam_duration": "180 minutes",
+      "passing_score": "700/1000",
+      "career_benefits": [
+        "DevOps engineer roles",
+        "Release management",
+        "CI/CD pipeline design"
+      ],
+      "learning_paths": [
+        "Azure DevOps Engineer",
+        "DevOps Practices",
+        "Azure Pipelines"
+      ],
+      "modules": [
+        "Configure processes and communications",
+        "Design and implement source control",
+        "Design and implement build and release pipelines",
+        "Develop a security and compliance plan",
+        "Implement an instrumentation strategy"
+      ]
+    },
+    {
+      "id": "az-140",
+      "title": "Azure Virtual Desktop Specialty",
+      "description": "Plan, deliver, and manage virtual desktop experiences and remote apps",
+      "level": "Specialty",
+      "category": "Virtualization",
+      "prerequisites": "1+ year of experience with Azure and Windows 10/11",
+      "skills_measured": [
+        "Plan an Azure Virtual Desktop architecture (25-30%)",
+        "Implement an Azure Virtual Desktop infrastructure (25-30%)",
+        "Manage access and security (15-20%)",
+        "Manage user environments and apps (15-20%)",
+        "Monitor and maintain an Azure Virtual Desktop environment (10-15%)"
+      ],
+      "estimated_study_time": "100-150 hours",
+      "exam_duration": "120 minutes",
+      "passing_score": "700/1000",
+      "career_benefits": [
+        "Virtual desktop specialist",
+        "Remote work solutions",
+        "Desktop virtualization"
+      ],
+      "learning_paths": [
+        "Azure Virtual Desktop",
+        "Virtual Desktop Infrastructure",
+        "Remote Desktop Services"
+      ],
+      "modules": [
+        "Plan an Azure Virtual Desktop architecture",
+        "Implement an Azure Virtual Desktop infrastructure",
+        "Manage access and security",
+        "Manage user environments and apps",
+        "Monitor and maintain an Azure Virtual Desktop environment"
+      ]
+    },
+    {
+      "id": "az-120",
+      "title": "Azure for SAP Workloads Specialty",
+      "description": "Design and implement SAP solutions on Azure",
+      "level": "Specialty",
+      "category": "Enterprise",
+      "prerequisites": "Experience with SAP and Azure infrastructure",
+      "skills_measured": [
+        "Design SAP on Azure architecture (25-30%)",
+        "Implement SAP on Azure (25-30%)",
+        "Migrate SAP workloads to Azure (20-25%)",
+        "Manage and monitor SAP solutions on Azure (20-25%)"
+      ],
+      "estimated_study_time": "120-180 hours",
+      "exam_duration": "150 minutes",
+      "passing_score": "700/1000",
+      "career_benefits": [
+        "SAP specialist",
+        "Enterprise solutions architect",
+        "SAP migration expert"
+      ],
+      "learning_paths": [
+        "Azure for SAP Workloads",
+        "SAP on Azure",
+        "Enterprise SAP Solutions"
+      ],
+      "modules": [
+        "Design SAP on Azure architecture",
+        "Implement SAP on Azure",
+        "Migrate SAP workloads to Azure",
+        "Manage and monitor SAP solutions on Azure"
+      ]
+    },
+    {
+      "id": "dp-900",
+      "title": "Azure Data Fundamentals",
+      "description": "Learn the fundamentals of database concepts in a cloud environment",
+      "level": "Fundamental",
+      "category": "Data",
+      "prerequisites": "None",
+      "skills_measured": [
+        "Describe core data concepts (25-30%)",
+        "Describe how to work with relational data on Azure (20-25%)",
+        "Describe how to work with non-relational data on Azure (15-20%)",
+        "Describe an analytics workload on Azure (25-30%)"
+      ],
+      "estimated_study_time": "25-35 hours",
+      "exam_duration": "60 minutes",
+      "passing_score": "700/1000",
+      "career_benefits": [
+        "Data analyst foundation",
+        "Database administration entry point",
+        "Business intelligence roles"
+      ],
+      "learning_paths": [
+        "Azure Data Fundamentals",
+        "Database Concepts",
+        "Azure Data Services"
+      ],
+      "modules": [
+        "Describe core data concepts",
+        "Describe how to work with relational data on Azure",
+        "Describe how to work with non-relational data on Azure",
+        "Describe an analytics workload on Azure"
+      ]
+    },
+    {
+      "id": "dp-203",
+      "title": "Azure Data Engineer Associate",
+      "description": "Design and implement data solutions using Azure data services",
+      "level": "Associate",
+      "category": "Data",
+      "prerequisites": "1+ year of experience with data engineering",
+      "skills_measured": [
+        "Design and implement data storage (15-20%)",
+        "Design and develop data processing (25-30%)",
+        "Design and implement data security (10-15%)",
+        "Monitor and optimize data storage and data processing (10-15%)"
+      ],
+      "estimated_study_time": "120-180 hours",
+      "exam_duration": "150 minutes",
+      "passing_score": "700/1000",
+      "career_benefits": [
+        "Data engineer roles",
+        "Big data specialist",
+        "Data pipeline development"
+      ],
+      "learning_paths": [
+        "Azure Data Engineer",
+        "Data Engineering on Azure",
+        "Big Data Solutions"
+      ],
+      "modules": [
+        "Design and implement data storage",
+        "Design and develop data processing",
+        "Design and implement data security",
+        "Monitor and optimize data storage and data processing"
+      ]
+    },
+    {
+      "id": "dp-300",
+      "title": "Azure Database Administrator Associate",
+      "description": "Implement and manage operational aspects of cloud-native and hybrid data platform solutions",
+      "level": "Associate",
+      "category": "Data",
+      "prerequisites": "1+ year of experience with database administration",
+      "skills_measured": [
+        "Plan and implement data platform resources (20-25%)",
+        "Implement a secure environment (15-20%)",
+        "Monitor and optimize operational resources (20-25%)",
+        "Optimize query performance (15-20%)",
+        "Perform automation of tasks (10-15%)",
+        "Plan and implement a High Availability and Disaster Recovery (HADR) environment (10-15%)"
+      ],
+      "estimated_study_time": "120-180 hours",
+      "exam_duration": "150 minutes",
+      "passing_score": "700/1000",
+      "career_benefits": [
+        "Database administrator",
+        "Cloud database specialist",
+        "Database operations"
+      ],
+      "learning_paths": [
+        "Azure Database Administrator",
+        "Database Administration on Azure",
+        "Cloud Database Management"
+      ],
+      "modules": [
+        "Plan and implement data platform resources",
+        "Implement a secure environment",
+        "Monitor and optimize operational resources",
+        "Optimize query performance",
+        "Perform automation of tasks",
+        "Plan and implement a High Availability and Disaster Recovery (HADR) environment"
+      ]
+    },
+    {
+      "id": "dp-420",
+      "title": "Azure Cosmos DB Developer Specialty",
+      "description": "Design and implement data models and data distribution",
+      "level": "Specialty",
+      "category": "Data",
+      "prerequisites": "1+ year of experience with Cosmos DB",
+      "skills_measured": [
+        "Design and implement data models (30-35%)",
+        "Design and implement data distribution (25-30%)",
+        "Integrate an Azure Cosmos DB solution (15-20%)",
+        "Optimize an Azure Cosmos DB solution (15-20%)",
+        "Maintain an Azure Cosmos DB solution (10-15%)"
+      ],
+      "estimated_study_time": "100-150 hours",
+      "exam_duration": "120 minutes",
+      "passing_score": "700/1000",
+      "career_benefits": [
+        "Cosmos DB specialist",
+        "NoSQL database expert",
+        "Distributed database design"
+      ],
+      "learning_paths": [
+        "Azure Cosmos DB Developer",
+        "NoSQL Database Design",
+        "Distributed Data Solutions"
+      ],
+      "modules": [
+        "Design and implement data models",
+        "Design and implement data distribution",
+        "Integrate an Azure Cosmos DB solution",
+        "Optimize an Azure Cosmos DB solution",
+        "Maintain an Azure Cosmos DB solution"
+      ]
+    },
+    {
+      "id": "ai-900",
+      "title": "Azure AI Fundamentals",
+      "description": "Learn the fundamentals of machine learning and artificial intelligence",
+      "level": "Fundamental",
+      "category": "AI",
+      "prerequisites": "None",
+      "skills_measured": [
+        "Describe AI workloads and considerations (20-25%)",
+        "Describe fundamental principles of machine learning on Azure (25-30%)",
+        "Describe features of computer vision workloads on Azure (15-20%)",
+        "Describe features of Natural Language Processing (NLP) workloads on Azure (15-20%)",
+        "Describe features of conversational AI workloads on Azure (15-20%)"
+      ],
+      "estimated_study_time": "30-40 hours",
+      "exam_duration": "60 minutes",
+      "passing_score": "700/1000",
+      "career_benefits": [
+        "AI engineer foundation",
+        "Machine learning roles",
+        "Data science entry point"
+      ],
+      "learning_paths": [
+        "Azure AI Fundamentals",
+        "Machine Learning Basics",
+        "AI Services on Azure"
+      ],
+      "modules": [
+        "Describe AI workloads and considerations",
+        "Describe fundamental principles of machine learning on Azure",
+        "Describe features of computer vision workloads on Azure",
+        "Describe features of Natural Language Processing (NLP) workloads on Azure",
+        "Describe features of conversational AI workloads on Azure"
+      ]
+    },
+    {
+      "id": "ai-102",
+      "title": "Azure AI Engineer Associate",
+      "description": "Build, manage, and deploy AI solutions that leverage Azure Cognitive Services",
+      "level": "Associate",
+      "category": "AI",
+      "prerequisites": "1+ year of experience with AI/ML development",
+      "skills_measured": [
+        "Plan and manage an Azure Cognitive Services solution (15-20%)",
+        "Implement Computer Vision solutions (20-25%)",
+        "Implement Natural Language Processing solutions (20-25%)",
+        "Implement Knowledge Mining solutions (15-20%)",
+        "Implement Conversational AI solutions (15-20%)"
+      ],
+      "estimated_study_time": "120-180 hours",
+      "exam_duration": "150 minutes",
+      "passing_score": "700/1000",
+      "career_benefits": [
+        "AI engineer roles",
+        "Machine learning specialist",
+        "Cognitive services expert"
+      ],
+      "learning_paths": [
+        "Azure AI Engineer",
+        "Cognitive Services",
+        "AI Solution Development"
+      ],
+      "modules": [
+        "Plan and manage an Azure Cognitive Services solution",
+        "Implement Computer Vision solutions",
+        "Implement Natural Language Processing solutions",
+        "Implement Knowledge Mining solutions",
+        "Implement Conversational AI solutions"
+      ]
+    },
+    {
+      "id": "sc-900",
+      "title": "Security, Compliance, and Identity Fundamentals",
+      "description": "Learn the fundamentals of security, compliance, and identity",
+      "level": "Fundamental",
+      "category": "Security",
+      "prerequisites": "None",
+      "skills_measured": [
+        "Describe the concepts of security, compliance, and identity (15-20%)",
+        "Describe the capabilities of Microsoft identity and access management solutions (25-30%)",
+        "Describe the capabilities of Microsoft security solutions (25-30%)",
+        "Describe the capabilities of Microsoft compliance solutions (20-25%)"
+      ],
+      "estimated_study_time": "25-35 hours",
+      "exam_duration": "60 minutes",
+      "passing_score": "700/1000",
+      "career_benefits": [
+        "Security analyst foundation",
+        "Compliance specialist roles",
+        "Identity management careers"
+      ],
+      "learning_paths": [
+        "Security, Compliance, and Identity Fundamentals",
+        "Microsoft Security Solutions",
+        "Identity and Access Management"
+      ],
+      "modules": [
+        "Describe the concepts of security, compliance, and identity",
+        "Describe the capabilities of Microsoft identity and access management solutions",
+        "Describe the capabilities of Microsoft security solutions",
+        "Describe the capabilities of Microsoft compliance solutions"
+      ]
+    },
+    {
+      "id": "sc-300",
+      "title": "Microsoft Identity and Access Administrator",
+      "description": "Design, implement, and operate an organization's identity and access management systems",
+      "level": "Associate",
+      "category": "Security",
+      "prerequisites": "1+ year of experience with identity and access management",
+      "skills_measured": [
+        "Implement an identity management solution (25-30%)",
+        "Implement an authentication and authorization solution (25-30%)",
+        "Implement access management for apps (15-20%)",
+        "Plan and implement an identity governance strategy (20-25%)"
+      ],
+      "estimated_study_time": "120-180 hours",
+      "exam_duration": "150 minutes",
+      "passing_score": "700/1000",
+      "career_benefits": [
+        "Identity administrator",
+        "Access management specialist",
+        "Security governance"
+      ],
+      "learning_paths": [
+        "Microsoft Identity and Access Administrator",
+        "Identity Management",
+        "Access Control Solutions"
+      ],
+      "modules": [
+        "Implement an identity management solution",
+        "Implement an authentication and authorization solution",
+        "Implement access management for apps",
+        "Plan and implement an identity governance strategy"
+      ]
+    },
+    {
+      "id": "sc-200",
+      "title": "Microsoft Security Operations Analyst",
+      "description": "Investigate, respond to, and hunt for threats using Microsoft Sentinel, Microsoft Defender for Endpoint",
+      "level": "Associate",
+      "category": "Security",
+      "prerequisites": "1+ year of experience with security operations",
+      "skills_measured": [
+        "Mitigate threats using Microsoft 365 Defender (25-30%)",
+        "Mitigate threats using Microsoft Defender for Endpoint (25-30%)",
+        "Mitigate threats using Microsoft Defender for Identity (15-20%)",
+        "Mitigate threats using Microsoft Cloud App Security (15-20%)"
+      ],
+      "estimated_study_time": "120-180 hours",
+      "exam_duration": "150 minutes",
+      "passing_score": "700/1000",
+      "career_benefits": [
+        "Security operations analyst",
+        "Threat hunter",
+        "Security incident responder"
+      ],
+      "learning_paths": [
+        "Microsoft Security Operations Analyst",
+        "Security Operations",
+        "Threat Detection and Response"
+      ],
+      "modules": [
+        "Mitigate threats using Microsoft 365 Defender",
+        "Mitigate threats using Microsoft Defender for Endpoint",
+        "Mitigate threats using Microsoft Defender for Identity",
+        "Mitigate threats using Microsoft Cloud App Security"
+      ]
+    },
+    {
+      "id": "sc-100",
+      "title": "Microsoft Cybersecurity Architect",
+      "description": "Design a Zero Trust strategy and architecture for enterprise security",
+      "level": "Expert",
+      "category": "Security",
+      "prerequisites": "Advanced experience with cybersecurity architecture",
+      "skills_measured": [
+        "Design a Zero Trust strategy and architecture (30-35%)",
+        "Evaluate Governance Risk Compliance (GRC) technical strategies and security operations strategies (20-25%)",
+        "Design security for infrastructure (20-25%)",
+        "Design a strategy for data and applications (20-25%)"
+      ],
+      "estimated_study_time": "150-200 hours",
+      "exam_duration": "180 minutes",
+      "passing_score": "700/1000",
+      "career_benefits": [
+        "Cybersecurity architect",
+        "Security strategist",
+        "Zero Trust specialist"
+      ],
+      "learning_paths": [
+        "Microsoft Cybersecurity Architect",
+        "Zero Trust Architecture",
+        "Enterprise Security Design"
+      ],
+      "modules": [
+        "Design a Zero Trust strategy and architecture",
+        "Evaluate Governance Risk Compliance (GRC) technical strategies and security operations strategies",
+        "Design security for infrastructure",
+        "Design a strategy for data and applications"
+      ]
+    },
+    {
+      "id": "ms-900",
+      "title": "Microsoft 365 Fundamentals",
+      "description": "Learn the fundamentals of Microsoft 365",
+      "level": "Fundamental",
+      "category": "Productivity",
+      "prerequisites": "None",
+      "skills_measured": [
+        "Describe cloud concepts (10-15%)",
+        "Describe Microsoft 365 apps and services (25-30%)",
+        "Describe Microsoft 365 security and compliance (20-25%)",
+        "Describe Microsoft 365 pricing and support (15-20%)"
+      ],
+      "estimated_study_time": "20-30 hours",
+      "exam_duration": "60 minutes",
+      "passing_score": "700/1000",
+      "career_benefits": [
+        "Microsoft 365 administrator roles",
+        "Office productivity specialist",
+        "Business application support"
+      ],
+      "learning_paths": [
+        "Microsoft 365 Fundamentals",
+        "Microsoft 365 Apps and Services",
+        "Microsoft 365 Security"
+      ],
+      "modules": [
+        "Describe cloud concepts",
+        "Describe Microsoft 365 apps and services",
+        "Describe Microsoft 365 security and compliance",
+        "Describe Microsoft 365 pricing and support"
+      ]
+    },
+    {
+      "id": "ms-700",
+      "title": "Managing Microsoft Teams",
+      "description": "Plan, deploy, configure, and secure Microsoft Teams",
+      "level": "Associate",
+      "category": "Productivity",
+      "prerequisites": "1+ year of experience with Microsoft Teams",
+      "skills_measured": [
+        "Plan and configure a Microsoft Teams environment (25-30%)",
+        "Manage chat, calling, and meetings (20-25%)",
+        "Manage teams and app policies (20-25%)",
+        "Monitor and troubleshoot a Microsoft Teams environment (15-20%)"
+      ],
+      "estimated_study_time": "100-150 hours",
+      "exam_duration": "120 minutes",
+      "passing_score": "700/1000",
+      "career_benefits": [
+        "Teams administrator",
+        "Collaboration specialist",
+        "Unified communications"
+      ],
+      "learning_paths": [
+        "Managing Microsoft Teams",
+        "Teams Administration",
+        "Collaboration Solutions"
+      ],
+      "modules": [
+        "Plan and configure a Microsoft Teams environment",
+        "Manage chat, calling, and meetings",
+        "Manage teams and app policies",
+        "Monitor and troubleshoot a Microsoft Teams environment"
+      ]
+    },
+    {
+      "id": "ms-600",
+      "title": "Building Applications and Solutions with Microsoft 365 Core Services",
+      "description": "Build apps and solutions that extend Microsoft 365 experiences",
+      "level": "Associate",
+      "category": "Development",
+      "prerequisites": "1+ year of experience with Microsoft 365 development",
+      "skills_measured": [
+        "Implement Microsoft Identity (20-25%)",
+        "Build apps with Microsoft Graph (25-30%)",
+        "Extend and customize SharePoint (20-25%)",
+        "Extend Teams (15-20%)",
+        "Extend Office (10-15%)"
+      ],
+      "estimated_study_time": "120-180 hours",
+      "exam_duration": "150 minutes",
+      "passing_score": "700/1000",
+      "career_benefits": [
+        "Microsoft 365 developer",
+        "SharePoint developer",
+        "Teams app developer"
+      ],
+      "learning_paths": [
+        "Building Applications with Microsoft 365",
+        "Microsoft Graph Development",
+        "SharePoint Development"
+      ],
+      "modules": [
+        "Implement Microsoft Identity",
+        "Build apps with Microsoft Graph",
+        "Extend and customize SharePoint",
+        "Extend Teams",
+        "Extend Office"
+      ]
+    },
+    {
+      "id": "ms-500",
+      "title": "Microsoft 365 Security Administrator",
+      "description": "Implement, manage, and monitor security and compliance solutions",
+      "level": "Associate",
+      "category": "Security",
+      "prerequisites": "1+ year of experience with Microsoft 365 security",
+      "skills_measured": [
+        "Implement and manage identity and access (25-30%)",
+        "Implement and manage threat protection (25-30%)",
+        "Implement and manage information protection (20-25%)",
+        "Manage governance and compliance features in Microsoft 365 (20-25%)"
+      ],
+      "estimated_study_time": "120-180 hours",
+      "exam_duration": "150 minutes",
+      "passing_score": "700/1000",
+      "career_benefits": [
+        "Microsoft 365 security administrator",
+        "Security compliance specialist",
+        "Information protection expert"
+      ],
+      "learning_paths": [
+        "Microsoft 365 Security Administrator",
+        "Microsoft 365 Security",
+        "Compliance Management"
+      ],
+      "modules": [
+        "Implement and manage identity and access",
+        "Implement and manage threat protection",
+        "Implement and manage information protection",
+        "Manage governance and compliance features in Microsoft 365"
+      ]
+    },
+    {
+      "id": "ms-300",
+      "title": "Deploying Microsoft 365 Teamwork",
+      "description": "Plan, configure, and manage SharePoint Online and OneDrive for Business",
+      "level": "Associate",
+      "category": "Productivity",
+      "prerequisites": "1+ year of experience with SharePoint",
+      "skills_measured": [
+        "Configure SharePoint Online (25-30%)",
+        "Configure OneDrive for Business (20-25%)",
+        "Configure SharePoint Online and OneDrive for Business (20-25%)",
+        "Manage user profiles and apps (15-20%)"
+      ],
+      "estimated_study_time": "100-150 hours",
+      "exam_duration": "120 minutes",
+      "passing_score": "700/1000",
+      "career_benefits": [
+        "SharePoint administrator",
+        "OneDrive specialist",
+        "Collaboration platform manager"
+      ],
+      "learning_paths": [
+        "Deploying Microsoft 365 Teamwork",
+        "SharePoint Administration",
+        "OneDrive Management"
+      ],
+      "modules": [
+        "Configure SharePoint Online",
+        "Configure OneDrive for Business",
+        "Configure SharePoint Online and OneDrive for Business",
+        "Manage user profiles and apps"
+      ]
+    },
+    {
+      "id": "ms-200",
+      "title": "Planning and Configuring a Messaging Platform",
+      "description": "Plan, configure, and manage a Microsoft Exchange Online environment",
+      "level": "Associate",
+      "category": "Productivity",
+      "prerequisites": "1+ year of experience with Exchange",
+      "skills_measured": [
+        "Plan and configure the messaging infrastructure (25-30%)",
+        "Manage mail flow (25-30%)",
+        "Manage compliance (20-25%)",
+        "Manage organizational settings (20-25%)"
+      ],
+      "estimated_study_time": "100-150 hours",
+      "exam_duration": "120 minutes",
+      "passing_score": "700/1000",
+      "career_benefits": [
+        "Exchange administrator",
+        "Messaging specialist",
+        "Email platform manager"
+      ],
+      "learning_paths": [
+        "Planning and Configuring a Messaging Platform",
+        "Exchange Administration",
+        "Messaging Infrastructure"
+      ],
+      "modules": [
+        "Plan and configure the messaging infrastructure",
+        "Manage mail flow",
+        "Manage compliance",
+        "Manage organizational settings"
+      ]
+    },
+    {
+      "id": "pl-900",
+      "title": "Power Platform Fundamentals",
+      "description": "Learn the fundamentals of Power Platform",
+      "level": "Fundamental",
+      "category": "Low-Code",
+      "prerequisites": "None",
+      "skills_measured": [
+        "Describe the business value of Power Platform (10-15%)",
+        "Describe the core components of Power Platform (20-25%)",
+        "Describe the capabilities of Power BI (20-25%)",
+        "Describe the capabilities of Power Apps (20-25%)",
+        "Describe the capabilities of Power Automate (15-20%)"
+      ],
+      "estimated_study_time": "25-35 hours",
+      "exam_duration": "60 minutes",
+      "passing_score": "700/1000",
+      "career_benefits": [
+        "Power Platform developer",
+        "Business analyst roles",
+        "Low-code development"
+      ],
+      "learning_paths": [
+        "Power Platform Fundamentals",
+        "Power BI Basics",
+        "Power Apps Development"
+      ],
+      "modules": [
+        "Describe the business value of Power Platform",
+        "Describe the core components of Power Platform",
+        "Describe the capabilities of Power BI",
+        "Describe the capabilities of Power Apps",
+        "Describe the capabilities of Power Automate"
+      ]
+    },
+    {
+      "id": "pl-200",
+      "title": "Power Platform Functional Consultant",
+      "description": "Configure Power Platform solutions and implement components",
+      "level": "Associate",
+      "category": "Low-Code",
+      "prerequisites": "1+ year of experience with Power Platform",
+      "skills_measured": [
+        "Configure Microsoft Dataverse (20-25%)",
+        "Configure user security (15-20%)",
+        "Configure Power Apps (25-30%)",
+        "Configure Power Automate (20-25%)",
+        "Configure Power BI (10-15%)"
+      ],
+      "estimated_study_time": "120-180 hours",
+      "exam_duration": "150 minutes",
+      "passing_score": "700/1000",
+      "career_benefits": [
+        "Power Platform consultant",
+        "Low-code solution architect",
+        "Business process automation"
+      ],
+      "learning_paths": [
+        "Power Platform Functional Consultant",
+        "Power Platform Configuration",
+        "Business Process Automation"
+      ],
+      "modules": [
+        "Configure Microsoft Dataverse",
+        "Configure user security",
+        "Configure Power Apps",
+        "Configure Power Automate",
+        "Configure Power BI"
+      ]
+    },
+    {
+      "id": "pl-400",
+      "title": "Power Platform Developer",
+      "description": "Create and build Power Platform solutions",
+      "level": "Associate",
+      "category": "Development",
+      "prerequisites": "1+ year of experience with Power Platform development",
+      "skills_measured": [
+        "Create a technical design (10-15%)",
+        "Configure Microsoft Dataverse (15-20%)",
+        "Create and configure Power Apps (25-30%)",
+        "Create and configure Power Automate (20-25%)",
+        "Implement Power BI (10-15%)"
+      ],
+      "estimated_study_time": "120-180 hours",
+      "exam_duration": "150 minutes",
+      "passing_score": "700/1000",
+      "career_benefits": [
+        "Power Platform developer",
+        "Low-code developer",
+        "Business application developer"
+      ],
+      "learning_paths": [
+        "Power Platform Developer",
+        "Power Platform Development",
+        "Low-Code Application Development"
+      ],
+      "modules": [
+        "Create a technical design",
+        "Configure Microsoft Dataverse",
+        "Create and configure Power Apps",
+        "Create and configure Power Automate",
+        "Implement Power BI"
+      ]
+    },
+    {
+      "id": "mb-910",
+      "title": "Dynamics 365 Fundamentals (CRM)",
+      "description": "Learn the fundamentals of Dynamics 365 Customer Engagement",
+      "level": "Fundamental",
+      "category": "Business Applications",
+      "prerequisites": "None",
+      "skills_measured": [
+        "Describe Dynamics 365 marketing capabilities (20-25%)",
+        "Describe Dynamics 365 sales capabilities (25-30%)",
+        "Describe Dynamics 365 customer service capabilities (20-25%)",
+        "Describe Dynamics 365 field service capabilities (15-20%)"
+      ],
+      "estimated_study_time": "25-35 hours",
+      "exam_duration": "60 minutes",
+      "passing_score": "700/1000",
+      "career_benefits": [
+        "CRM specialist",
+        "Sales operations",
+        "Customer service management"
+      ],
+      "learning_paths": [
+        "Dynamics 365 Fundamentals (CRM)",
+        "Customer Relationship Management",
+        "Sales and Marketing"
+      ],
+      "modules": [
+        "Describe Dynamics 365 marketing capabilities",
+        "Describe Dynamics 365 sales capabilities",
+        "Describe Dynamics 365 customer service capabilities",
+        "Describe Dynamics 365 field service capabilities"
+      ]
+    },
+    {
+      "id": "mb-920",
+      "title": "Dynamics 365 Fundamentals (ERP)",
+      "description": "Learn the fundamentals of Dynamics 365 Finance and Operations",
+      "level": "Fundamental",
+      "category": "Business Applications",
+      "prerequisites": "None",
+      "skills_measured": [
+        "Describe Dynamics 365 finance capabilities (25-30%)",
+        "Describe Dynamics 365 supply chain management capabilities (25-30%)",
+        "Describe Dynamics 365 commerce capabilities (20-25%)",
+        "Describe Dynamics 365 human resources capabilities (15-20%)"
+      ],
+      "estimated_study_time": "25-35 hours",
+      "exam_duration": "60 minutes",
+      "passing_score": "700/1000",
+      "career_benefits": [
+        "ERP specialist",
+        "Finance operations",
+        "Supply chain management"
+      ],
+      "learning_paths": [
+        "Dynamics 365 Fundamentals (ERP)",
+        "Enterprise Resource Planning",
+        "Finance and Operations"
+      ],
+      "modules": [
+        "Describe Dynamics 365 finance capabilities",
+        "Describe Dynamics 365 supply chain management capabilities",
+        "Describe Dynamics 365 commerce capabilities",
+        "Describe Dynamics 365 human resources capabilities"
+      ]
+    },
+    {
+      "id": "mb-210",
+      "title": "Dynamics 365 Sales Functional Consultant Associate",
+      "description": "Configure and implement Dynamics 365 Sales",
+      "level": "Associate",
+      "category": "Business Applications",
+      "prerequisites": "1+ year of experience with Dynamics 365 Sales",
+      "skills_measured": [
+        "Configure Dynamics 365 Sales (25-30%)",
+        "Manage leads and opportunities (20-25%)",
+        "Manage the sales process (20-25%)",
+        "Configure and manage sales analytics (15-20%)"
+      ],
+      "estimated_study_time": "100-150 hours",
+      "exam_duration": "120 minutes",
+      "passing_score": "700/1000",
+      "career_benefits": [
+        "Sales consultant",
+        "CRM specialist",
+        "Sales process optimization"
+      ],
+      "learning_paths": [
+        "Dynamics 365 Sales Functional Consultant",
+        "Sales Process Management",
+        "CRM Configuration"
+      ],
+      "modules": [
+        "Configure Dynamics 365 Sales",
+        "Manage leads and opportunities",
+        "Manage the sales process",
+        "Configure and manage sales analytics"
+      ]
+    },
+    {
+      "id": "mb-220",
+      "title": "Dynamics 365 Marketing Functional Consultant Associate",
+      "description": "Configure and implement Dynamics 365 Marketing",
+      "level": "Associate",
+      "category": "Business Applications",
+      "prerequisites": "1+ year of experience with Dynamics 365 Marketing",
+      "skills_measured": [
+        "Configure Dynamics 365 Marketing (25-30%)",
+        "Manage marketing execution (25-30%)",
+        "Manage customer insights (20-25%)",
+        "Configure and manage marketing analytics (15-20%)"
+      ],
+      "estimated_study_time": "100-150 hours",
+      "exam_duration": "120 minutes",
+      "passing_score": "700/1000",
+      "career_benefits": [
+        "Marketing consultant",
+        "Marketing automation specialist",
+        "Customer insights analyst"
+      ],
+      "learning_paths": [
+        "Dynamics 365 Marketing Functional Consultant",
+        "Marketing Automation",
+        "Customer Insights"
+      ],
+      "modules": [
+        "Configure Dynamics 365 Marketing",
+        "Manage marketing execution",
+        "Manage customer insights",
+        "Configure and manage marketing analytics"
+      ]
+    },
+    {
+      "id": "mb-230",
+      "title": "Dynamics 365 Customer Service Functional Consultant Associate",
+      "description": "Configure and implement Dynamics 365 Customer Service",
+      "level": "Associate",
+      "category": "Business Applications",
+      "prerequisites": "1+ year of experience with Dynamics 365 Customer Service",
+      "skills_measured": [
+        "Configure Dynamics 365 Customer Service (25-30%)",
+        "Manage cases (25-30%)",
+        "Manage knowledge management (20-25%)",
+        "Configure and manage customer service analytics (15-20%)"
+      ],
+      "estimated_study_time": "100-150 hours",
+      "exam_duration": "120 minutes",
+      "passing_score": "700/1000",
+      "career_benefits": [
+        "Customer service consultant",
+        "Support operations specialist",
+        "Knowledge management expert"
+      ],
+      "learning_paths": [
+        "Dynamics 365 Customer Service Functional Consultant",
+        "Customer Service Management",
+        "Knowledge Management"
+      ],
+      "modules": [
+        "Configure Dynamics 365 Customer Service",
+        "Manage cases",
+        "Manage knowledge management",
+        "Configure and manage customer service analytics"
+      ]
+    },
+    {
+      "id": "mb-240",
+      "title": "Dynamics 365 Field Service Functional Consultant Associate",
+      "description": "Configure and implement Dynamics 365 Field Service",
+      "level": "Associate",
+      "category": "Business Applications",
+      "prerequisites": "1+ year of experience with Dynamics 365 Field Service",
+      "skills_measured": [
+        "Configure Dynamics 365 Field Service (25-30%)",
+        "Manage work orders (25-30%)",
+        "Manage scheduling and dispatching (20-25%)",
+        "Configure and manage field service analytics (15-20%)"
+      ],
+      "estimated_study_time": "100-150 hours",
+      "exam_duration": "120 minutes",
+      "passing_score": "700/1000",
+      "career_benefits": [
+        "Field service consultant",
+        "Service operations specialist",
+        "Mobile workforce management"
+      ],
+      "learning_paths": [
+        "Dynamics 365 Field Service Functional Consultant",
+        "Field Service Management",
+        "Mobile Workforce Solutions"
+      ],
+      "modules": [
+        "Configure Dynamics 365 Field Service",
+        "Manage work orders",
+        "Manage scheduling and dispatching",
+        "Configure and manage field service analytics"
+      ]
+    },
+    {
+      "id": "mb-300",
+      "title": "Dynamics 365: Core Finance and Operations",
+      "description": "Configure and implement Dynamics 365 Finance and Operations",
+      "level": "Associate",
+      "category": "Business Applications",
+      "prerequisites": "1+ year of experience with Dynamics 365 Finance and Operations",
+      "skills_measured": [
+        "Configure Dynamics 365 Finance and Operations (25-30%)",
+        "Manage finance and accounting (25-30%)",
+        "Manage supply chain (20-25%)",
+        "Configure and manage analytics (15-20%)"
+      ],
+      "estimated_study_time": "120-180 hours",
+      "exam_duration": "150 minutes",
+      "passing_score": "700/1000",
+      "career_benefits": [
+        "ERP consultant",
+        "Finance operations specialist",
+        "Supply chain management"
+      ],
+      "learning_paths": [
+        "Dynamics 365: Core Finance and Operations",
+        "ERP Implementation",
+        "Finance and Supply Chain"
+      ],
+      "modules": [
+        "Configure Dynamics 365 Finance and Operations",
+        "Manage finance and accounting",
+        "Manage supply chain",
+        "Configure and manage analytics"
+      ]
+    },
+    {
+      "id": "mb-500",
+      "title": "Dynamics 365: Finance and Operations Apps Developer",
+      "description": "Develop and extend Dynamics 365 Finance and Operations",
+      "level": "Associate",
+      "category": "Development",
+      "prerequisites": "1+ year of experience with Dynamics 365 development",
+      "skills_measured": [
+        "Configure and implement development tools (20-25%)",
+        "Develop and implement business logic (25-30%)",
+        "Develop and implement user interfaces (20-25%)",
+        "Configure and implement reporting (15-20%)"
+      ],
+      "estimated_study_time": "120-180 hours",
+      "exam_duration": "150 minutes",
+      "passing_score": "700/1000",
+      "career_benefits": [
+        "Dynamics 365 developer",
+        "ERP developer",
+        "Business application developer"
+      ],
+      "learning_paths": [
+        "Dynamics 365: Finance and Operations Apps Developer",
+        "ERP Development",
+        "Business Logic Development"
+      ],
+      "modules": [
+        "Configure and implement development tools",
+        "Develop and implement business logic",
+        "Develop and implement user interfaces",
+        "Configure and implement reporting"
+      ]
+    },
+    {
+      "id": "mb-600",
+      "title": "Dynamics 365 + Power Platform Solution Architect",
+      "description": "Design solutions that use Dynamics 365 and Power Platform",
+      "level": "Expert",
+      "category": "Architecture",
+      "prerequisites": "Advanced experience with Dynamics 365 and Power Platform",
+      "skills_measured": [
+        "Design solutions (30-35%)",
+        "Design security (20-25%)",
+        "Design integrations (20-25%)",
+        "Design data migration (15-20%)"
+      ],
+      "estimated_study_time": "150-200 hours",
+      "exam_duration": "180 minutes",
+      "passing_score": "700/1000",
+      "career_benefits": [
+        "Solution architect",
+        "Business applications architect",
+        "Digital transformation specialist"
+      ],
+      "learning_paths": [
+        "Dynamics 365 + Power Platform Solution Architect",
+        "Business Applications Architecture",
+        "Digital Transformation"
+      ],
+      "modules": [
+        "Design solutions",
+        "Design security",
+        "Design integrations",
+        "Design data migration"
+      ]
+    }
+  ]
+} 
