@@ -1,11 +1,11 @@
-import json
+import json 
 import os
 from typing import Dict, List, Any, Optional
 from dataclasses import dataclass
 from enum import Enum
 from openai import AzureOpenAI
 
-class AgentType(Enum):
+class AgentType(Enum): 
     GOAL = "goal"
     PREREQUISITE = "prerequisite"
     CURRICULUM = "curriculum"

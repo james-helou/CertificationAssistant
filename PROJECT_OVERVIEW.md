@@ -1,6 +1,6 @@
 # Simple Agentic Certification Assistant - Project Overview
 
-## 🎯 **Project Summary**
+## **Project Summary**
 
 A streamlined Microsoft certification recommendation system that uses **local data** + **OpenAI API** + **sequential AI agents** to create personalized study plans. This project demonstrates true agentic AI with sequential handoffs and context sharing.
 
