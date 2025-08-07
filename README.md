@@ -9,7 +9,7 @@ A streamlined Microsoft certification recommendation system that uses **local da
 3. **Curriculum Agent** - Creates a detailed study plan with modules
 4. **Schedule Agent** - Generates a personalized study schedule
 
-## 🚀 **Quick Start**
+##  **Quick Start**
 
 ### **1. Install Dependencies**
 ```bash
@@ -29,7 +29,7 @@ python simple_certification_assistant.py
 - Choose areas of interest
 - Set available study hours
 
-## 📁 **File Structure**
+##  **File Structure**
 
 ```
 ├── data/
@@ -39,7 +39,7 @@ python simple_certification_assistant.py
 └── README_SIMPLE.md           # This file
 ```
 
-## 🤖 **How the Agents Work**
+##  **How the Agents Work**
 
 ### **Sequential Flow:**
 ```
@@ -51,40 +51,40 @@ User Profile → Goal Agent → Prerequisite Agent → Curriculum Agent → Sche
 - No repeated questions
 - Intelligent handoffs between agents
 
-## 📊 **Sample Output**
+##  **Sample Output**
 
 ```
-🎯 Simple Agentic Certification Assistant
+ Simple Agentic Certification Assistant
 ============================================================
 
 🤖 Executing GOAL Agent...
 ----------------------------------------
-✅ Goal Agent completed successfully
-📝 Successfully recommended 2 certifications
+ Goal Agent completed successfully
+ Successfully recommended 2 certifications
 
-📋 Certification Recommendations:
+ Certification Recommendations:
 
 1. Azure Fundamentals (AZ-900)
    Difficulty: Fundamental
    Study Time: 20-30 hours
    Reasoning: Perfect for beginners starting cloud journey
 
-🔄 Handing off to PREREQUISITE Agent...
+ Handing off to PREREQUISITE Agent...
 ----------------------------------------
-✅ Prerequisite Agent completed successfully
-📝 Successfully analyzed prerequisites for AZ-900
+ Prerequisite Agent completed successfully
+ Successfully analyzed prerequisites for AZ-900
 
-📚 Prerequisites Analysis for AZ-900:
-   Meets Prerequisites: ✅ Yes
+ Prerequisites Analysis for AZ-900:
+   Meets Prerequisites:  Yes
    Confidence Level: high
    Timeline: 2-3 weeks
 
-🔄 Handing off to CURRICULUM Agent...
+ Handing off to CURRICULUM Agent...
 ----------------------------------------
-✅ Curriculum Agent completed successfully
-📝 Successfully created study plan for AZ-900
+ Curriculum Agent completed successfully
+ Successfully created study plan for AZ-900
 
-📖 Study Plan for AZ-900:
+ Study Plan for AZ-900:
    Title: Azure Fundamentals
    Total Study Time: 20-30 hours
    Total Weeks: 3
@@ -95,12 +95,12 @@ User Profile → Goal Agent → Prerequisite Agent → Curriculum Agent → Sche
      3. Describe Azure management and governance
      4. Describe Azure security, privacy, compliance, and trust
 
-🔄 Handing off to SCHEDULE Agent...
+ Handing off to SCHEDULE Agent...
 ----------------------------------------
-✅ Schedule Agent completed successfully
-📝 Successfully created study schedule
+ Schedule Agent completed successfully
+ Successfully created study schedule
 
-📅 Study Schedule for AZ-900:
+ Study Schedule for AZ-900:
    Total Weeks: 3
    Hours per Week: 10
    Exam Date: TBD - 3 weeks from start
@@ -113,19 +113,19 @@ User Profile → Goal Agent → Prerequisite Agent → Curriculum Agent → Sche
      Friday: 2.0 hours - Weekly review
      Weekend: Rest and light review
 
-🎯 FINAL CERTIFICATION ROADMAP
+ FINAL CERTIFICATION ROADMAP
 ============================================================
 
-📋 Selected Certification: az-900
-📊 Recommendations Generated: 2
-📚 Prerequisites Analyzed: ✅
-📖 Study Plan Created: ✅
-📅 Schedule Generated: ✅
+ Selected Certification: az-900
+ Recommendations Generated: 2
+ Prerequisites Analyzed: ✅
+ Study Plan Created: ✅
+ Schedule Generated: ✅
 
-🚀 Your agentic certification journey is complete!
+ Your agentic certification journey is complete!
 ```
 
-## 🔧 **Customization**
+##  **Customization**
 
 ### **Add More Certifications**
 Edit `data/certifications.json` to add new certifications:
@@ -153,16 +153,16 @@ class GoalAgent(BaseAgent):
         pass
 ```
 
-## 🎯 **Benefits of This Approach**
+##  **Benefits of This Approach**
 
-✅ **Simple** - No external API dependencies  
-✅ **Fast** - Local data, instant responses  
-✅ **Reliable** - No network issues or API limits  
-✅ **Customizable** - Easy to modify and extend  
-✅ **Agentic** - True sequential agent interactions  
-✅ **Context-Aware** - Agents share information  
+ **Simple** - No external API dependencies  
+ **Fast** - Local data, instant responses  
+ **Reliable** - No network issues or API limits  
+ **Customizable** - Easy to modify and extend  
+ **Agentic** - True sequential agent interactions  
+ **Context-Aware** - Agents share information  
 
-## 🚀 **Next Steps**
+##  **Next Steps**
 
 1. **Run the assistant** and get your personalized roadmap
 2. **Follow the study plan** created by the agents
